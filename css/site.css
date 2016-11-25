@@ -157,4 +157,8 @@ h1 {
   .cover-container {
     width: 700px;
   }
+
+  .mastfoot {
+      width:100%;
+  }
 }
